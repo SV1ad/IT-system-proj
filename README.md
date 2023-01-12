@@ -1,5 +1,13 @@
 Proj description 
 
+According to business logic, we created an application in which the customer can post his purchases with a description and review of whether it is worth buying this item.
+
+The first service is responsible for the user's data and the product he wants to talk about, and the second service directly for the description and title of this post.
+
+As a customer, we used the Swagger tool to help us support API virtualization along with management and monitoring. Open API specification Swagger creates complex and automatically generated documentation and shares the REST API specification.
+
+Also used was RabbitMQ, a general-purpose message broker that supports protocols including MQTT, AMQP, and STOMP. It can handle high-throughput use cases such as online payment processing. In this lab, RabbitMq acts as a message broker between microservices. When adding or changing information in the database in one of the microservices, we see updated changes in the console.
+
 Link to Dockerfile:
 https://hub.docker.com/repository/docker/fromgreensky/userservice
 https://hub.docker.com/repository/docker/fromgreensky/rabbitmq
