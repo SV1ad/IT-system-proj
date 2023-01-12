@@ -16,7 +16,7 @@ Now, after launching Debug from Multiple Startup Projects, we can see 2 services
 
 ![image](https://user-images.githubusercontent.com/93725278/212024181-be85b86e-71d5-4154-9a29-1c132eebf6bf.png)
 
-image
+![image](https://user-images.githubusercontent.com/93725278/212052004-17ce432f-023a-4c9a-b3bf-78b47bbcdcaa.png)
 
 We will add a new user and product description to both services.
 
