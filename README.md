@@ -14,7 +14,7 @@ image
 
 Now, after launching Debug from Multiple Startup Projects, we can see 2 services:
 
-image
+![image](https://user-images.githubusercontent.com/93725278/212024181-be85b86e-71d5-4154-9a29-1c132eebf6bf.png)
 
 image
 
