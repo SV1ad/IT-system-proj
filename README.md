@@ -2,6 +2,9 @@ Proj description
 
 According to business logic, we created an application in which the customer can post his purchases with a description and review of whether it is worth buying this item.
 
+![image](https://user-images.githubusercontent.com/93725278/217241124-378ecf96-ba90-44f0-820e-f1c90e17d863.png)
+
+
 The first service is responsible for the user's data and the product he wants to talk about, and the second service directly for the description and title of this post.
 
 As a customer, we used the Swagger tool to help us support API virtualization along with management and monitoring. Open API specification Swagger creates complex and automatically generated documentation and shares the REST API specification.
